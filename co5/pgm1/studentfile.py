@@ -1,0 +1,5 @@
+f = open("student.txt","w") 
+f.write("Roll number: 10 \nName: Ananthakrishnan K A \nAge: 22") f.close() 
+f = open("student.txt") 
+print(f.read()) 
+f.close() 

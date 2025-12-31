@@ -1,0 +1,3 @@
+The cat sat on the mat. Cats are cute animals. 
+Dogs and cats are friends. I love my cat. 
+Python is fun and powerful. 
